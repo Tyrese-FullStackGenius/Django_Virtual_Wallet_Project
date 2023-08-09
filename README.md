@@ -1,9 +1,7 @@
 # Django Virtual Wallet Project
 This project aims to develop a virtual wallet web application using Django. The app allows the users to send/request money to other users and manage their spendings and payment information. It also has web pages for admin and staff to check the user list and all the transactions made in the app. These pages will not be visible to regular app users. <br>
 
-**Application Link: http://gillianchiang.pythonanywhere.com/** 
-
-<img src="https://github.com/gillian850413/Django_Virtual_Wallet/blob/master/screenshot.png" width="550" height="300" />
+<img src="https://github.com/Tyrese-FullStackGenius/Django_Virtual_Wallet_Project/blob/master/screenshot.png" width="550" height="300" />
 
 ## Requisites
 - Django 2.2.5 (or later version)
@@ -21,7 +19,7 @@ conda activate django_env
 ```
 - Clone the github repository
 ```
-git clone https://github.com/gillian850413/Django_Virtual_Wallet.git
+git clone https://github.com/Tyrese-FullStackGenius/Django_Virtual_Wallet_Project.git
 ```
 - Install the required packages in the conda environment
 ```
